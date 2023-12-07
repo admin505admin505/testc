@@ -24,3 +24,5 @@ int main()
 
     return 0;
 }
+
+$ emcc helloWorld.cpp -o helloWorld.html
